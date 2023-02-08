@@ -1,0 +1,24 @@
+minres_c.README
+
+The software for MINRES (ANSI C89 version) is provided by 
+Heekun Roh, Flight Dynamics and Control Laboratory(FDCL),
+Korea Advanced Institute of Science and Technology(KAIST) 
+under the terms of the OSI Common Public License (CPL):
+http://www.opensource.org/licenses/cpl1.0.php
+
+
+10 Feb 2023: First set of files available for download from https://github.com/heekunroh
+
+Please send comments to Michael Saunders, SOL, Stanford University
+                        saunders@stanford.edu  650-723-1875
+                        Heekun Roh, FDCL, KAIST
+                        heekunroh@kaist.ac.kr
+-----------------------------------------------------------------------------
+
+The C89 version of MINRES involves the following files:
+
+   minres.c
+   minres.h
+   minresblas.c
+   minresblas.h
+   minrestest.c
